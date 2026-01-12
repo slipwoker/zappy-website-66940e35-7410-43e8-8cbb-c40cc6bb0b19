@@ -1,0 +1,61 @@
+# סטודיו טוליפ Studio Tulip — Generative Engine Optimization Map
+
+> A צילום business.
+
+---
+
+## Pages
+
+### בית
+https://studio-tulip-66940e35.zappy5.app
+סטודיו טוליפ מציע צילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צילום אופנה ותדמית, צילום רחפן לבנייה ונדל״ן. תיק עבודות מרשים של צילומי משפחה ואירועים.
+
+### תיק עבודות
+https://studio-tulip-66940e35.zappy5.app/portfolio
+תיק עבודות סטודיו טוליפ - צפו בפרויקטי צילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צילום אופנה ותדמית, צילום רחפן ונדל״ן שביצענו.
+
+### שירותים
+https://studio-tulip-66940e35.zappy5.app/services
+שירותי צילום מקצועיים של סטודיו טוליפ: צילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צלם אופנה שחקנים ותדמית, צילום רחפן תשתיות בנייה ונדל״ן, וצילום אירועי ברית מילה ובריתה מקצועי.
+
+### אודות
+https://studio-tulip-66940e35.zappy5.app/about
+אודות סטודיו טוליפ - סטודיו צילום מקצועי המתמחה בצילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צלם אופנה שחקנים ותדמית, וצילום רחפן לבנייה ונדל״ן.
+
+### צור קשר
+https://studio-tulip-66940e35.zappy5.app/contact
+צרו קשר עם סטודיו טוליפ לקבלת הצעת מחיר עבור צילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צלם אופנה שחקנים ותדמית, או צילום רחפן לבנייה ונדל״ן.
+
+## Legal & Policy
+
+### Privacy Policy
+https://studio-tulip-66940e35.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://studio-tulip-66940e35.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://studio-tulip-66940e35.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סטודיו טוליפ Studio Tulip
+סטודיו טוליפ Studio Tulip is a business in the צילום industry.
+
+## Target Audience
+לקוחות מחפשים צילומי אופנה, שחקנים, מוצרים, אירועי משפחה (בר/בת מצווה, חתונות, ברית), תיעוד הנדסי ואדריכלות
+
+## Industry
+צילום
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://studio-tulip-66940e35.zappy5.app/sitemap.xml
+- **Robots.txt**: https://studio-tulip-66940e35.zappy5.app/robots.txt
