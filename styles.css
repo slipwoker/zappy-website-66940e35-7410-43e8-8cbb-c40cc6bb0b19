@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
 
 /* Self-hosted fonts (Inter + Rubik for multi-language support) */
 
@@ -76,10 +76,10 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Rubik', 'Noto Sans Hebrew', Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
   line-height: 1.7;
   color: #1a1a1a;
-  background: #ffffff;
+  background: #EDEDEC;
 }
 
 img {
@@ -89,16 +89,21 @@ img {
 }
 
 :root {
-  --primary-color: #000000;
-  --secondary-color: #ffffff;
-  --accent-color: #d4af37;
-  --text-color: #1a1a1a;
-  --light-text: #ffffff;
-  --bg-white: #ffffff;
-  --bg-light: #f8f8f8;
+--primary-color: #000000;
+  --secondary-color: #EAE4DC;
+  --accent-color: #C9C3B9;
+  --text-color: #4A4A4A;
+  --light-text: #EAE4DC;
+  --bg-white: #EDEDEC;
+  --bg-light: #EDEDEC;
   --shadow: 0 4px 20px rgba(0,0,0,0.1);
   --transition: all 0.3s ease;
-}
+  --background-color: #EDEDEC;
+  --surface-color: #F9FAFB;
+  --text-secondary-color: #8C8C8C;
+
+  --body-font: 'Roboto', sans-serif;
+  --font-family: 'Roboto', sans-serif;}
 
 .container {
   max-width: 1440px;
@@ -135,7 +140,7 @@ h3 {
 }
 
 p {
-  font-size: 16px !important;
+  font-size: 28px;
   font-weight: 400 !important;
   line-height: 1.7 !important;
   margin-bottom: 1rem !important;
@@ -443,7 +448,8 @@ section {
 
 .service-card p {
   padding: 0 20px 20px;
-}
+
+  font-size: 28px;}
 
 .portfolio-item {
   position: relative;
@@ -499,7 +505,8 @@ section {
 .cta-content h2,
 .cta-content p {
   color: var(--light-text);
-}
+
+  font-size: 28px;}
 
 .btn-cta {
   display: inline-block;
@@ -802,7 +809,8 @@ section {
 
 .form-group {
   margin-bottom: 1.5rem;
-}
+
+  font-size: 28px;}
 
 .form-group label {
   display: block;
@@ -892,7 +900,7 @@ section {
   border-radius: 4px;
   text-decoration: none;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 28px;
   margin: 0.5rem;
   transition: var(--transition);
 }
@@ -910,10 +918,11 @@ section {
 }
 
 .btn-whatsapp {
-  background: #25d366;
+  background: #000000;
   color: var(--light-text);
-  border: 2px solid #25d366;
-}
+  border: 2px solid #000000;
+
+  font-size: 28px;}
 
 .btn-whatsapp:hover {
   background: #128c7e;
@@ -964,7 +973,7 @@ section {
   }
   
   p {
-    font-size: 14px !important;
+    font-size: 28px;
   }
   
   section {
@@ -1093,7 +1102,7 @@ section {
     font-size: 24px;
     z-index: 1000;
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-    background: #25d366;
+    background: #000000;
     color: white;
     text-decoration: none;
   }
@@ -1155,7 +1164,7 @@ section {
   }
   
   p {
-    font-size: 15px !important;
+    font-size: 28px;
   }
 }
 /* CRITICAL: Ensure images are visible immediately (but don't interfere with accessibility toolbar) */
@@ -1200,7 +1209,8 @@ img, picture, figure {
 .legal-page-content p {
   margin-bottom: 1rem;
   line-height: 1.7;
-}
+
+  font-size: 28px;}
 
 .legal-page-content ul {
   margin-bottom: 1.5rem;
@@ -1238,7 +1248,7 @@ img, picture, figure {
 
     /* Legal Footer Styles - Header Colors */
     .legal-footer {
-      background-color: #f2f2f2;
+      background-color: #EDEDEC;
       color: #1a1a1a;
       padding: 20px 0;
       font-size: 16px;
@@ -1267,7 +1277,8 @@ img, picture, figure {
     .legal-footer .all-rights-reserved p {
       margin: 0 !important;
       margin-bottom: 0 !important;
-    }
+    
+  font-size: 28px;}
 
     .legal-footer .zappy-attribution {
       text-align: center;
@@ -1278,7 +1289,7 @@ img, picture, figure {
 
     .legal-footer .zappy-attribution p {
       margin: 0;
-      font-size: 16px;
+      font-size: 28px;
       color: #1a1a1a;
       font-style: italic;
     }
@@ -1645,7 +1656,7 @@ img, picture, figure {
 .mic-access-tool-box-header,
 div[id*="mic-access-tool-box"] header,
 div[id*="mic-access-tool-box"] .header {
-  background: #f2f2f2 !important;
+  background: #EDEDEC !important;
   color: white !important;
 }
 
@@ -1682,7 +1693,7 @@ div[id*="mic-access-tool-box"] button:hover {
 #mic-access-tool-box button[title*="Reset"],
 #mic-access-tool-box [class*="reset"],
 div[id*="mic-access-tool-box"] button[class*="reset"] {
-  background: #f2f2f2 !important;
+  background: #EDEDEC !important;
   color: white !important;
 }
 
@@ -1766,3 +1777,135 @@ body.accessibility-widget-visible ._access-menu {
     display: none !important;
   }
 }
+
+/* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
+/* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */
+/* For RTL sites: hamburger on RIGHT, phone on LEFT (mirror of LTR layout) */
+
+@media (max-width: 768px) {
+  /* RTL Mobile Toggle (hamburger) - positioned on RIGHT */
+  /* Using multiple parent selectors for higher specificity */
+  html[dir="rtl"] .navbar .mobile-toggle,
+  html[dir="rtl"] nav .mobile-toggle,
+  html[dir="rtl"] header .mobile-toggle,
+  html[dir="rtl"] .nav-container .mobile-toggle,
+  html[dir="rtl"] .mobile-toggle {
+    left: auto !important;
+    right: 15px !important;
+  }
+  
+  /* RTL Phone Button - positioned on LEFT */
+  html[dir="rtl"] .navbar .phone-header-btn,
+  html[dir="rtl"] nav .phone-header-btn,
+  html[dir="rtl"] header .phone-header-btn,
+  html[dir="rtl"] .nav-container .phone-header-btn,
+  html[dir="rtl"] .phone-header-btn {
+    left: 15px !important;
+    right: auto !important;
+  }
+  
+  /* RTL Mobile Menu - slides from RIGHT */
+  html[dir="rtl"] .navbar .nav-menu,
+  html[dir="rtl"] nav .nav-menu,
+  html[dir="rtl"] header .nav-menu,
+  html[dir="rtl"] .nav-container .nav-menu,
+  html[dir="rtl"] .nav-menu {
+    left: auto !important;
+    right: 0 !important;
+  }
+  
+  /* RTL Mobile Menu Links - text align right */
+  html[dir="rtl"] .nav-menu a,
+  html[dir="rtl"] .nav-menu li {
+    text-align: right !important;
+  }
+}
+
+/* ========== END RTL MOBILE NAVBAR FIX ========== */
+
+
+/* ========== GRID RESPONSIVE FIX (zappy-grid-mobile-fix) ========== */
+/* Ensures grids with explicit columns use CSS variable and are responsive on mobile */
+
+/* DESKTOP: Explicit column grids use CSS variable for grid-template-columns */
+/* This rule reads the --zappy-grid-cols CSS variable set in inline styles */
+[data-zappy-explicit-columns="true"] {
+  display: grid !important;
+  grid-template-columns: var(--zappy-grid-cols, repeat(2, minmax(0, 1fr))) !important;
+}
+
+@media (max-width: 768px) {
+  /* Auto-grid (AI-generated) grids - force single column on mobile */
+  .zappy-preserve-css-grid[data-zappy-auto-grid="true"],
+  [data-zappy-auto-grid="true"] {
+    grid-template-columns: 1fr !important;
+    gap: 1.5rem !important;
+  }
+  
+  /* Media-only grid items - constrain height on mobile */
+  .zappy-preserve-css-grid[data-zappy-auto-grid="true"] > .zappy-grid-item-media-only,
+  [data-zappy-auto-grid="true"] > .zappy-grid-item-media-only {
+    height: auto !important;
+    max-height: 300px !important;
+  }
+  
+  .zappy-preserve-css-grid[data-zappy-auto-grid="true"] > .zappy-grid-item-media-only img,
+  [data-zappy-auto-grid="true"] > .zappy-grid-item-media-only img {
+    height: auto !important;
+    max-height: 300px !important;
+  }
+  
+  /* MOBILE: Explicit column grids - force single column on mobile */
+  [data-zappy-explicit-columns="true"] {
+    grid-template-columns: 1fr !important;
+  }
+  
+  /* Inline grid with fixed pixel columns - make responsive */
+  .zappy-inline-grid-active.zappy-preserve-css-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* ========== HORIZONTAL-PAIR GRID MEDIA FIX ========== */
+/* Ensures media in horizontal-pair grids fills columns correctly */
+
+/* Media cells in horizontal-pair grids */
+.zappy-horizontal-grid[data-zappy-grid-kind="horizontal-pair"] [data-zappy-media-cell="true"] {
+  position: relative !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: stretch !important;
+  justify-content: stretch !important;
+  min-height: 0 !important;
+}
+
+/* Images/videos: preserve aspect ratio while filling column width */
+.zappy-horizontal-grid[data-zappy-grid-kind="horizontal-pair"] [data-zappy-media-cell="true"] > img,
+.zappy-horizontal-grid[data-zappy-grid-kind="horizontal-pair"] [data-zappy-media-cell="true"] > video {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  max-height: none !important;
+  flex: 0 0 auto !important;
+  min-height: 0 !important;
+  display: block !important;
+  object-fit: contain !important;
+  object-position: center !important;
+}
+
+/* Icons/SVG: fill cell behavior */
+.zappy-horizontal-grid[data-zappy-grid-kind="horizontal-pair"] [data-zappy-media-cell="true"] > svg,
+.zappy-horizontal-grid[data-zappy-grid-kind="horizontal-pair"] [data-zappy-media-cell="true"] > .iconify,
+.zappy-horizontal-grid[data-zappy-grid-kind="horizontal-pair"] [data-zappy-media-cell="true"] > .iconify svg {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: 100% !important;
+  max-height: 100% !important;
+  flex: 1 1 auto !important;
+  min-height: 0 !important;
+  display: block !important;
+}
+
+/* ========== END HORIZONTAL-PAIR GRID MEDIA FIX ========== */
+
+/* ========== END GRID RESPONSIVE FIX ========== */

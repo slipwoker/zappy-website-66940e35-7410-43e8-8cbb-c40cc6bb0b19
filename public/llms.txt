@@ -1,61 +1,78 @@
-# סטודיו טוליפ Studio Tulip — Generative Engine Optimization Map
-
-> A צילום business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
-### בית
-https://studio-tulip-66940e35.zappy5.app
+###  טלי מלמד ואוהד אברהמי - סטודיו טוליפ
+https://example.com
 סטודיו טוליפ מציע צילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צילום אופנה ותדמית, צילום רחפן לבנייה ונדל״ן. תיק עבודות מרשים של צילומי משפחה ואירועים.
 
-### תיק עבודות
-https://studio-tulip-66940e35.zappy5.app/portfolio
-תיק עבודות סטודיו טוליפ - צפו בפרויקטי צילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צילום אופנה ותדמית, צילום רחפן ונדל״ן שביצענו.
-
-### שירותים
-https://studio-tulip-66940e35.zappy5.app/services
+### שירותי צילום מקצועיים לכל מטרה — סטודיו טוליפ
+https://example.com/services
 שירותי צילום מקצועיים של סטודיו טוליפ: צילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צלם אופנה שחקנים ותדמית, צילום רחפן תשתיות בנייה ונדל״ן, וצילום אירועי ברית מילה ובריתה מקצועי.
 
-### אודות
-https://studio-tulip-66940e35.zappy5.app/about
+### תיק עבודות מרשים - צילומים מקצועיים — סטודיו טוליפ
+https://example.com/portfolio
+תיק עבודות סטודיו טוליפ - צפו בפרויקטי צילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צילום אופנה ותדמית, צילום רחפן ונדל״ן שביצענו.
+
+### אודות הסטודיו והצוות המקצועי — סטודיו טוליפ
+https://example.com/about
 אודות סטודיו טוליפ - סטודיו צילום מקצועי המתמחה בצילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צלם אופנה שחקנים ותדמית, וצילום רחפן לבנייה ונדל״ן.
 
-### צור קשר
-https://studio-tulip-66940e35.zappy5.app/contact
+### Page
+https://example.com/menu-group-1768382070597
+
+### Page
+https://example.com/gallery-page-drone
+
+### Page
+https://example.com/fashion
+
+### Page
+https://example.com/product-photography
+
+### Page
+https://example.com/boutique-events-gallery
+
+### Page
+https://example.com/business-conferences
+
+### Page
+https://example.com/private-events
+
+### Page
+https://example.com/social-media-content
+
+### Page
+https://example.com/snap-day
+
+### צרו קשר לייעוץ והזמנת צילום — סטודיו טוליפ
+https://example.com/contact
 צרו קשר עם סטודיו טוליפ לקבלת הצעת מחיר עבור צילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צלם אופנה שחקנים ותדמית, או צילום רחפן לבנייה ונדל״ן.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://studio-tulip-66940e35.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://studio-tulip-66940e35.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://studio-tulip-66940e35.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About סטודיו טוליפ Studio Tulip
-סטודיו טוליפ Studio Tulip is a business in the צילום industry.
-
-## Target Audience
-לקוחות מחפשים צילומי אופנה, שחקנים, מוצרים, אירועי משפחה (בר/בת מצווה, חתונות, ברית), תיעוד הנדסי ואדריכלות
-
-## Industry
-צילום
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://studio-tulip-66940e35.zappy5.app/sitemap.xml
-- **Robots.txt**: https://studio-tulip-66940e35.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt

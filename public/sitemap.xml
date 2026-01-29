@@ -1,50 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://studio-tulip-66940e35.zappy5.app</loc>
-    <lastmod>2026-01-12</lastmod>
+    <loc>https://example.com</loc>
+    <lastmod>2026-01-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://studio-tulip-66940e35.zappy5.app/portfolio</loc>
-    <lastmod>2026-01-12</lastmod>
+    <loc>https://example.com/services</loc>
+    <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studio-tulip-66940e35.zappy5.app/services</loc>
-    <lastmod>2026-01-12</lastmod>
+    <loc>https://example.com/portfolio</loc>
+    <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studio-tulip-66940e35.zappy5.app/about</loc>
-    <lastmod>2026-01-12</lastmod>
+    <loc>https://example.com/about</loc>
+    <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studio-tulip-66940e35.zappy5.app/contact</loc>
-    <lastmod>2026-01-12</lastmod>
+    <loc>https://example.com/menu-group-1768382070597</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://example.com/gallery-page-drone</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://example.com/fashion</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://example.com/product-photography</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://example.com/boutique-events-gallery</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://example.com/business-conferences</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://example.com/private-events</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://example.com/social-media-content</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://example.com/snap-day</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://example.com/contact</loc>
+    <lastmod>2026-01-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studio-tulip-66940e35.zappy5.app/privacy</loc>
-    <lastmod>2026-01-12</lastmod>
+    <loc>https://example.com/privacy</loc>
+    <lastmod>2026-01-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://studio-tulip-66940e35.zappy5.app/terms</loc>
-    <lastmod>2026-01-12</lastmod>
+    <loc>https://example.com/terms</loc>
+    <lastmod>2026-01-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://studio-tulip-66940e35.zappy5.app/accessibility</loc>
-    <lastmod>2026-01-12</lastmod>
+    <loc>https://example.com/accessibility</loc>
+    <lastmod>2026-01-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
