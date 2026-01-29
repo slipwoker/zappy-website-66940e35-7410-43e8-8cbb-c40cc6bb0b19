@@ -1,78 +1,88 @@
-# Business — Generative Engine Optimization Map
+# סטודיו טוליפ Studio Tulip — Generative Engine Optimization Map
+
+> A צילום business.
 
 ---
 
 ## Pages
 
 ###  טלי מלמד ואוהד אברהמי - סטודיו טוליפ
-https://example.com
+https://studio-tulip.zappy5.app
 סטודיו טוליפ מציע צילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צילום אופנה ותדמית, צילום רחפן לבנייה ונדל״ן. תיק עבודות מרשים של צילומי משפחה ואירועים.
 
 ### שירותי צילום מקצועיים לכל מטרה — סטודיו טוליפ
-https://example.com/services
+https://studio-tulip.zappy5.app/services
 שירותי צילום מקצועיים של סטודיו טוליפ: צילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צלם אופנה שחקנים ותדמית, צילום רחפן תשתיות בנייה ונדל״ן, וצילום אירועי ברית מילה ובריתה מקצועי.
 
 ### תיק עבודות מרשים - צילומים מקצועיים — סטודיו טוליפ
-https://example.com/portfolio
+https://studio-tulip.zappy5.app/portfolio
 תיק עבודות סטודיו טוליפ - צפו בפרויקטי צילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צילום אופנה ותדמית, צילום רחפן ונדל״ן שביצענו.
 
 ### אודות הסטודיו והצוות המקצועי — סטודיו טוליפ
-https://example.com/about
+https://studio-tulip.zappy5.app/about
 אודות סטודיו טוליפ - סטודיו צילום מקצועי המתמחה בצילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צלם אופנה שחקנים ותדמית, וצילום רחפן לבנייה ונדל״ן.
 
 ### Page
-https://example.com/menu-group-1768382070597
+https://studio-tulip.zappy5.app/menu-group-1768382070597
 
 ### Page
-https://example.com/gallery-page-drone
+https://studio-tulip.zappy5.app/gallery-page-drone
 
 ### Page
-https://example.com/fashion
+https://studio-tulip.zappy5.app/fashion
 
 ### Page
-https://example.com/product-photography
+https://studio-tulip.zappy5.app/product-photography
 
 ### Page
-https://example.com/boutique-events-gallery
+https://studio-tulip.zappy5.app/boutique-events-gallery
 
 ### Page
-https://example.com/business-conferences
+https://studio-tulip.zappy5.app/business-conferences
 
 ### Page
-https://example.com/private-events
+https://studio-tulip.zappy5.app/private-events
 
 ### Page
-https://example.com/social-media-content
+https://studio-tulip.zappy5.app/social-media-content
 
 ### Page
-https://example.com/snap-day
+https://studio-tulip.zappy5.app/snap-day
 
 ### צרו קשר לייעוץ והזמנת צילום — סטודיו טוליפ
-https://example.com/contact
+https://studio-tulip.zappy5.app/contact
 צרו קשר עם סטודיו טוליפ לקבלת הצעת מחיר עבור צילום בר מצווה ועליה לתורה וצילום אירועים מקצועי, צלם אופנה שחקנים ותדמית, או צילום רחפן לבנייה ונדל״ן.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://studio-tulip.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://studio-tulip.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://studio-tulip.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About סטודיו טוליפ Studio Tulip
+סטודיו טוליפ Studio Tulip is a business in the צילום industry.
+
+## Target Audience
+לקוחות מחפשים צילומי אופנה, שחקנים, מוצרים, אירועי משפחה (בר/בת מצווה, חתונות, ברית), תיעוד הנדסי ואדריכלות
+
+## Industry
+צילום
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://studio-tulip.zappy5.app/sitemap.xml
+- **Robots.txt**: https://studio-tulip.zappy5.app/robots.txt
